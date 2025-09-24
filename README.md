@@ -73,12 +73,11 @@ This design follows **3rd Normal Form (3NF)** to reduce redundancy and ensure co
 ### Prerequisites
 
 - Install **MySQL 8.x** or compatible version.
-- (Optional) Use **Docker** to quickly spin up a MySQL container.
 
 ### Running the SQL File
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/azula-ecommerce-db.git
+   git clone https://github.com/Beltonmmata/BeltonMmata-Week-8-Database-Assignment-Final-Project.git
    cd azula-ecommerce-db
    ```
